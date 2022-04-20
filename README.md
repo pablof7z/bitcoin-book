@@ -1,16 +1,21 @@
 # Bitcoin Book
 
+# Titles
+ * Bitcoin Seconds Steps / You own bitcoin, now what?
+ * Using Bitcoin
 ## TOC
 
 - Audience / who is this book for?
 - Mining
-- Basic concepts
+- A non-annoying glossary
     - UTXOs
     - Side chains
     - Layer 2s
     - Open source / FOSS
     - Private Keys
     - KYC/No-KYC
+    - Consensus
+      - The siren-song of proof-of-stake
 - Custody
     - Self-custodial vs custodial
         - Why
@@ -38,5 +43,3 @@
 - Chain analysis
 - Yield
     - Defi
-
-
