@@ -1,21 +1,14 @@
-# Bitcoin Book
+# Bitcoin 201 Book
 
-# Titles
- * Bitcoin Seconds Steps / You own bitcoin, now what?
- * Using Bitcoin
-## TOC
-
+# Subtitles
+ * You own bitcoin, now what?
+# TOC
 - Audience / who is this book for?
+  - Why look beyond investment thesis
 - Mining
-- A non-annoying glossary
-    - UTXOs
-    - Side chains
-    - Layer 2s
-    - Open source / FOSS
-    - Private Keys
-    - KYC/No-KYC
-    - Consensus
-      - The siren-song of proof-of-stake
+- Bitcoin memes and misconceptions:
+  - Bitcoin is not a battery
+  - Virtues and evils of Bitcoin maximalism
 - Custody
     - Self-custodial vs custodial
         - Why
@@ -25,6 +18,9 @@
         - Multisig
             - Collaborative custody
         - Passphrases
+        - Seed XOR
+- Bitcoin is...
+- Bitcoin maximalism
 - Where are my coins?
     - Nowhere. Coins are a 
 - Running a node
@@ -43,3 +39,12 @@
 - Chain analysis
 - Yield
     - Defi
+- A non-annoying glossary
+    - UTXOs
+    - Side chains
+    - Layer 2s
+    - Open source / FOSS
+    - Private Keys
+    - KYC/No-KYC
+    - Consensus
+      - The siren-song of proof-of-stake
