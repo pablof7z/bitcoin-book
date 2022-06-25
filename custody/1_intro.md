@@ -1,4 +1,4 @@
-Bitcoin is the first (and really only) digital asset you can truly own. When you custody bitcoin you are ensuring real possession, instead of becoming someone else's liability.
+Bitcoin is the first (and only) digital asset you can truly own. When you custody bitcoin you are ensuring real possession, instead of becoming someone else's liability.
 
 ## What is custody, really?
 To understand what custody really is we need to understand what a bitcoin is. People are generally thrown off by bitcoin's non-physicallity.

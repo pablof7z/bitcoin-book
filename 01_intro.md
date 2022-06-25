@@ -8,9 +8,11 @@ I had the pleasure of orange-pilling him next to the communal swimming pool whil
 Bitcoin is an absolutely incredible... property? asset? technology? phenomenon?
 See, any word used to describe bitcoin falls short. Bitcoin stands alone and it would be a noun in of itself if that wouldn't make it a tautology.
 
-The aim of this book is to drive you from a *Bitcoin as an investment* to the depths of the Bitcoin Rabbit Hole (BRH from now on).
+This book aims to drive you from a *Bitcoin as an investment* to the depths of the Bitcoin Rabbit Hole (BRH from now on).
 
-This is not just to satisfy some dark intellectual curiosity. I honestly believe, and I'm not alone, that Bitcoin is among the top ten most important inventions/discoveries by humans. I know, this might sound like hyperboly.
+This is not just to satisfy some dark intellectual curiosity. I honestly believe, and I'm not alone, that Bitcoin is among the top five most important inventions/discoveries by humans.
+
+This might sound like hyperboly.
 
 It's not. I mean it literally and, I trust, that throughout exploring this book and where your interaction with this book might lead you, to reach a similar conclusion or a strong argument why this is not the case.
 

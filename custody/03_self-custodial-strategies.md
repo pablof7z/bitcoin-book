@@ -1,8 +1,8 @@
 ## Self-custodial strategies
 
-Because custodying bitcoin is simply about holding one or multiple really large numbers secret an infinite number of strategies of how to keep those numbers secret have developed since bitcoin's inception.
+Because custodying bitcoin is simply about holding one or multiple vast numbers secret, an infinite number of strategies of how to keep those numbers secret have developed since bitcoin's inception.
 
-Humans have been obsessed with hiding information in all manners way before Bitcoin, just look at any bad spy movie where secrets are passed around buried in all forms of complicated schemes ("Jack, read the third word of each chapter!")
+Humans have been obsessed with hiding information in all manners way before Bitcoin; just look at any lousy spy movie where secrets are passed around buried in all forms of complicated schemes ("Jack, read the third word of each chapter!")
 
 ### Hardware wallets
 
