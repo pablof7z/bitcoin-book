@@ -1,5 +1,5 @@
 # Running a node
-Similar to the popular "not your keys, not your bitcoin", among bitcoiners the phrase "not your node, not your rules" is an extremely fashionable one.
+Probably right after the popular "not your keys, not your coins", the phrase "not your node, not your rules" is the most widely repeated mantra.
 
 There are many misunderstandings around running a node, what it means, and *why* one should do it.
 

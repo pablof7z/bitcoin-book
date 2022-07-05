@@ -41,6 +41,10 @@
     - LN
 - Coinjoining
 - Chain analysis
+- Fatal misconceptions
+  - The blockchain can't tell what happens outside of the blockchain
+    - Any reference to something outside the blockchain is dependent on some outside authority, thus not permissionless.
+      - Maybe re-read the blockchain revolution bullshit book to find the errors?
 - Yield
     - Defi
 - A non-annoying glossary
@@ -52,7 +56,8 @@
     - KYC/No-KYC
     - Consensus
       - The siren-song of proof-of-stake
-
+- The marginal revolution happened, didn't you know?
+  - Hyperbitcoinization happens at the edges, we don't need to wait for any legal tender law. All that matters is the productivity stored in it and the productive capacity of it's users.
 
 
 ### Quotes
@@ -63,6 +68,9 @@ https://twitter.com/messages/24938383-1181296586
 
 
 
+# Ideas
+* How about writing chapters like Cryptonomicon where each chapter doesn't have a set hierarchy but it just addresses misunderstandings and teaches via illustrating how bitcoin actually works.
 
 ### Topics for threads
 * Inheritance planning
+* Bitcoins are not in your hardware wallet
