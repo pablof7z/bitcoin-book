@@ -1,0 +1,7 @@
+= Becoming a first-class Bitcoin user
+
+include::./01_intro.md[]
+
+include::./02_the_pitch.md[]
+
+include::./03_your_first_node.adoc[]

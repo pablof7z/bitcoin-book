@@ -1,0 +1,9 @@
+= FUD
+Something that I see very often among new bitcoiners is the propensity to *sense* when some anti-bitcoin argument is mostly bullshit, but they lack the words to explain why.
+
+This section is going to try to explore some short answers that will arm you to confront the most skeptical of your friends and family.
+
+== Can't the government just buy all the bitcoin and control the network? ==
+First of all: no, no matter how much bitcoin someone has, they can't control the network. This is why Proof of Stake is such a bad idea.
+
+What a large holder _can_ do is control the exchange rate

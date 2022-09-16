@@ -1,0 +1,17 @@
+= Blockchain & Other Confusions
+[partintro]
+The seaming simplicity and open-source nature of Bitcoin has created
+fertile ground to
+
+== Blockchains
+****
+Explain that a blockchain is nothing more than a database structure
+and it doesn't grant any magical powers to the data inside the blockchain.
+
+The fact that you can have your supply chain documented in the blockchain
+doesn't mean that a worker can't steal some merchandise.
+****
+
+== Yield
+
+== Scams: 10 Rules of thumbs to avoid them

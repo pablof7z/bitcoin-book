@@ -1,3 +1,4 @@
 dist/
 Gemfile.lock
 .DS_Store
+.vscode

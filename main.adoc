@@ -1,5 +1,7 @@
 // Basic info: title, author, etc.
 = Bitcoin 201
+:doctype: book
+// :partnums:
 :author: pablof7z
 :email: pablo@bitcoin201.com
 :revnumber: v0.1
@@ -9,21 +11,18 @@
 // :front-cover-image: image:cover.svg[fit=cover]
 //
 // Don't display a title page, since we have a cover image.
-:notitle:
-//
-// Render as a book; each chapter will get its own section.
-:doctype: book
+// :notitle:
 //
 // Prefix nmbered chapter titles with "Chapter"
-:chapter-label: Chapter
+// :chapter-label: Chapter
 //
 // Add a table of contents
-:toc: left
+:toc: preamble
 :toclevels: 2
 :toc-title: Table of Contents
 //
 // Number the first 2 levels of headings.
-:sectnumlevels: 2
+// :sectnumlevels: 2
 //
 // Hide the scheme from links in the text.
 // e.g. a link to https://github.com/ should appear as github.com/.
@@ -33,18 +32,59 @@
 :source-highlighter: rouge
 :rouge-style: github
 :tabsize: 4
-:pdf-page-size: a4
-:front-cover-image: image:cover.png[width=1050,height=1600]
+:pdf-page-size: 6in x 9in
+:front-cover-image: image:/Users/pablo/src/pablo/bitcoin-book/images/cover.png[fit=cover]
 
-// -- Book content includes --
+[colophon]
+The Asciidoctor Press, Ceres and Denver.
+
+(C) 2022 by Pablo Fernandez
+
+Published in the Milky Way Galaxy.
+
+[dedication%untitled]
+= Dedication
+For the millions of kids growing up with their time irreparably stolen.
 
 // Include the non-numbered sections (preface, introduction, etc).
-include::chapters/preface.adoc[]
+// include::chapters/preface.adoc[]
 
-include::chapters/introduction.adoc[]
+include::chapters/introduction/index.adoc[]
 
-// Enable chapter numbering.
-:sectnums:
+// :sectnums:
 
 // Include the numbered chapters.
-// include::chapters/custody/chapter-01.adoc[]
+= Owning Bitcoin
+[partintro]
+[.lead]
+Two most important characteristics separate _Bitcoin_ from all other assets: _unconfiscability_ and _censorship-resistance_.
+
+Let's explore why bitcoiners say:
+
+[quote]
+Bitcoin is the only thing you can truly own.
+
+include::chapters/custody/index.adoc[]
+
+= Trustless Bitcoin
+[partintro]
+Let's
+
+include::chapters/nodes/index.adoc[]
+
+= Bitcoin & Privacy
+
+include::chapters/privacy/index.adoc[]
+
+= Using Bitcoin
+
+include::chapters/using/index.adoc[]
+
+include::chapters/confusions/index.adoc[]
+
+= FUD Busting
+== Part 4
+<<<
+
+include::chapters/fud/01_intro.adoc[]
+

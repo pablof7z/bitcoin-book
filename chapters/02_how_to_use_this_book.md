@@ -1,4 +1,4 @@
-# How to use this book
+## How to use this book
 
 Look, this is bitcoin, you can use this book however the hell you want; you're a sovereign individual now (well, kinda)
 but let me tell you how I envisioned you using this book.

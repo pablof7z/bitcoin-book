@@ -1,0 +1,72 @@
+[preface]
+= Introduction
+"Quick question, Pablo: should I coinjoin my bitcoin?"
+
+The question caught me completely off guard.
+
+_"Eehh, yes. No. Well. Maybe. I don't know!"_
+
+In hindsight, the answer was obviously a nuanced _"MAYBE!"_ but the person asking the question dumbfunded me.
+
+Adrian was my canadian friend and neighbor in Costa Rica, whom I had accidentally orange-pilled over many afternoons hanging out by the pool.
+
+*Thank you, eternal Costa Rican summer.*
+
+He came up to speed on the importance of bitcoin like a thunder. From most people's default of _"bitcoin is a joke"_ to _"I-must-dedicate-my-life-to-hyperbitcoinization!"_
+
+Within months of starting to acquire as much bitcoin as he possibly could he had spent some of his dry-powder to fly to Bitcoin 2022.
+
+"So, should I coinjoin or not?", he repeated impatiently -- we were standing in one of the crowded hallways at the conference and, I'm guessing, he could see my dropped-jaw was not about to emit any astute advice.
+
+Clearly he had gone to a talk about on-chain privacy and was eager to do things *the right way*.
+
+To put things in perspective, I knew for a fact he had done his very first bitcoin transaction a few days ago. I know, I helped him do it.
+
+That's when I decided I needed to write this book.
+
+== Who this book is for
+I set out to write this book for the person who is beginning to look into bit
+
+This book is likely for you. If you are relatively new to bitcoin, you might have read one of those fabulous books that posit the investment-thesis for Bitcoin.
+
+"The Bitcoin Standard" by Saifadean Ammous.
+
+Or perhaps even the shorter "The bullish case for Bitcoin" by Va... (the one that pushed Adrian over the orange cliff)
+
+These books make a strong case for the *why* of owning bitcoin.
+
+This book attempts to explain the *how*, and, more importantly, through the *how* to use bitcoin, guide the path towards truly understanding what bitcoin is.
+
+And if you are anything like me and the hundreds of people I've helped *use* bitcoin, using bitcoin might lead you to some very interesting and, perhaps, metaphysical conclusions about the nature of money, value, wealth and languages.
+
+include::./why_understand.adoc[]
+
+
+include::./the_invention_of_bitcoin.adoc[]
+
+
+== Bitcoin's Hierarchy of Needs
+There's a natural progression of needs and wants on the bitcoiner hero's journey. Each layer builds on top of the previous one, like a pyramid.
+
+Let's call it...
+
+[.lead]
+Bitcoin's Hierarchy of Needs
+
+image::Pyramid.png[Pyramid,200,200,align="center"]
+
+=== Precoiner
+"Precoiner" is a friendly name used to refer to people who haven't began looking at bitcoin, even as an investment thesis. Even though most people have _heard_ of bitcoin by now, almost the entire global popullation fits in this category.
+
+=== Bitcoin Derivatives / Bitcoin IOU holder
+In the hyper-financialized world we've lived in for the past century, we've become accostumed to
+
+=== Bitcoin User
+This is where this book's journey begins. Whether you are currently a bitcoin user or not, here's where we start.
+
+What does it mean to be a bitcoin _user_?
+
+There is one way and one way only to interact with bitcoin, and that is,
+through a node. There's no way around it, you either instruct your node to do something or you instruct someone else's node to do it.
+
+The great innovation bitcoin presents is the ability to, without asking for permission from anyone, move your wealth around in a digital form.

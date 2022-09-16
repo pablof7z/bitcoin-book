@@ -1,0 +1,45 @@
+== Your first node
+You've decided to run a node: you want to be a fully sovereign individual, not rely on any dodgy third parties. Hooray!
+
+So you Google "how to run a bitcoin node." You are immediately overwhelmed with dozens of projects and offerings, with a list of hardware you need to buy, instructions to flash a Micro SD card, what kind of cables to buy, and the best type of fans for your new node.
+
+Oh, also a deep dive into how to properly manage liquidity on your lightning network node and how to find good channel partners on PLEBNET.
+
+Oops.
+
+Yes, there're many interesting and exciting projects to run dedicated computers to act as your bitcoin node; it doesn't need to be as complicated.
+
+Just go to https://bitcoin.org
+
+=== IBD (or magic so seamless you don't even see it)
+****
+Explain what happens during IBD and what it means; transmit the magic of starting with the very first block, the "Chancelor in the brink of..." message and the fact that you are cryptographically verifying every single transaction that has ever happened in bitcoin's history.
+
+Illustrate with an analogy of melting down every piece of gold that has ever been mined to analyze each single molecular structure.
+****
+
+When you first start running the bitcoin software you'll be welcomed with... the most underwhelming user experience ever designed.
+
+[.lead]
+*A progress bar that takes _days_ to complete*
+
+Mindblowing stuff.
+
+But what happens under the hood really is mindblowing.
+
+Let's take a peak.
+
+=== Technology so advanced it's indistinguishable from magic
+Your node is discovering other nodes and asking them to share
+the blocks they have.
+
+****
+[.lead]
+Wait, what's exactly is a _"block"_?
+
+You've heard the buzzword _blockchain_, right? **Blocks are the heartbeat of
+a blockchain.** Roughly every 10 minutes, a new block is appended to the Bitcoin blockchain, optionally including transactions.
+
+// TODO Insert link here
+More details on this later.
+****

@@ -1,0 +1,9 @@
+== Bitcoin Custody
+
+include::./01_intro.adoc[]
+
+include::./02_self-custody.md[]
+
+include::./03_self-custodial-strategies.md[]
+
+include::./04_inheritance.adoc[]

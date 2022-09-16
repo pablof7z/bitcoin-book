@@ -1,4 +1,4 @@
-# The Pitch
-## Why *you* should run a node
+## The Pitch
+### Why *you* should run a node
 
-Among the 
+Among the

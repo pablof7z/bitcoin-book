@@ -2,15 +2,15 @@
 
 The question completely caught me by off guard.
 
-"eehh, yes. No. Well. Maybe. I don't know."
+"eehh, yes. No. Well. Maybe. I don't know!"
 
-In hindsight, the answer was obviously a nuanced "MAYBE!" but who was asking the question dumbfunded me.
+In hindsight, the answer was obviously a nuanced "MAYBE!" but who was asking the question dumbfounded me.
 
-Adrian was my canadian friend and neighbor in Costa Rica, whom I had accidentally orange-pilled over many afternoons hanging-out by the pool.
+Adrian was my Canadian friend and neighbor in Costa Rica, whom I had accidentally orange-pilled over many afternoons hanging out by the pool.
 
 *Thank you, eternal Costa Rican summer.*
 
-He came up to speed on the importance of bitcoin like a thunder. From most people's default of *"bitcoin is a joke"* to *"oh-my-god-I-must-dedicate-my-life-to-creating-a-bright-orange-future-for-my-children!"*
+He came up to speed on the importance of bitcoin like a thunder. From the tired *"bitcoin is a ponzi!"* to *"oh-my-god-I-must-dedicate-my-life-to-creating-a-bright-orange-future-for-my-children!"*
 
 Within months of starting to acquire as much bitcoin as he possibly could he had spent some of his dry-powder to fly to Bitcoin 2022.
 
@@ -35,7 +35,7 @@ This book attempts to explain the *how*, and, more importantly, through the *how
 
 And if you are anything like me and the hundreds of people I've helped *use* bitcoin, using bitcoin might lead you to some very interesting and, perhaps, metaphysical conclusions about the nature of money, value, wealth and languages.
 
-### Why understanding how to use bitcoin is fundamnetal for the investment thesis
+### Why understanding how to use bitcoin is fundamental for the investment thesis
 I get it.
 
 Every single person that looks at Bitcoin is interested in it's meteoric price appreciation.
@@ -50,7 +50,7 @@ If you look carefully you'll notice the leakage of financial ideas right off the
 
 This is part of the problem.
 
-We've been operating under a monetary system that requires the undoing of one of the most important traits of human civilization: labor specialization. You must know grasp and measure your "risk profile." and size it accordingly. But whatever you do, don't 
+We've been operating under a monetary system that requires the undoing of one of the most important traits of human civilization: labor specialization. You must know grasp and measure your "risk profile." and size it accordingly. But whatever you do, don't
 
 ## How this book is organized
 There's a natural progression of needs and wants on the bitcoiner/hero's journey. Each layer builds on top of the previous one, like a pyramid.

@@ -1,4 +1,4 @@
-#  ̶M̶a̶s̶l̶o̶w̶ Bitcoin's hierarchy of needs
+# Bitcoin's hierarchy of needs
 
 Hyperbitcoinized individual?
 KYC-free bitcoin

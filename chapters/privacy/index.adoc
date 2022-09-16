@@ -1,0 +1,58 @@
+Welcome to the chapter that will be skipped the most in this book!
+
+You've arrived. Now, before you skip it, let me give you the elevator-pitch of why you should care about it.
+
+The nature of bitcoin implies that it will attrack powerful adversaries. The only way in which Bitcoin sails into the sunset wihout the ire of the powerful managers of the status quo is if it becomes completely irrelevant.
+
+Given that you're reading this book, I'm going to guess you don't subscribe to this idiotic conclusion.
+
+Now. Bitcoin is going to be fine. It was *designed* under the assumption that it would be attacked from the most powerful adversaries.
+
+But bitcoin *users*? That's a different story. The physicallity of gold was what allowed it to be captured. Guess what, most bitcoin users are physical beings as well.
+
+You probably live in a territory that, right now, has no or minimal restrictions on bitcoin ownership and use.
+
+Emphasis in *right now*.
+
+Like a cornered dog, you don't know what a tumbling state might do when shit hits the fan.
+
+"That would never happen here"
+
+Probably not. But why risk revealing every detail of your bitcoin holdings and how you use it when *not* revealing everything is so simple and just takes a few hours of (highly rewarding) work?
+
+Oh, and in case you aren't fully sold yet, here's what the alternative of not using bitcoin privately entails (at the very least):
+    * Every company or wallet you've used to buy, transfer or sell bitcoin with nows your whole history and balance over time.
+    * Most of those companies keep a
+
+
+
+
+
+Most people dismiss privacy for a couple of things:
+    * it's too hard
+    * Google/The government already know everything about me, I'm helpless
+    * I don't have anything to hide
+
+Well, let me dispel some myths right out of the gate.
+
+Using bitcoin privately is not too hard; it's just that most easy ways of using it are terrible for your privacy.
+
+
+
+Privacy is a tough topic in bitcoin, but if you follow a handful rules of thumb you'll be able to navigate it.
+
+## Why privacy matters even if...
+    * all you care about is hodling for the long term
+    * have nothing to hide
+
+Privacy is the kind of thing no one cares about until it's too late. Privacy in bitcoin is
+* The importance of KYC-free bitcoin
+* How to buy or achieve KYC-free bitcoin
+* The dangers of coinjoining
+* Non-kyc bitcoin can be
+* Typical ways in which people undo their privacy
+  * Using a blockexplorer
+  *
+
+
+include::./02_chainalysis.md[]

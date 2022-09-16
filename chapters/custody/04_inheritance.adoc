@@ -1,5 +1,6 @@
-# Inheritance planning
-## (or how to get your spouse to mourn you instead of your lost bitcoin)
+== Inheritance planning
+[quote]
+==== (or how to get your spouse to mourn you instead of your lost bitcoin)
 
 I was recently rock climbing with my wife. She was on the other end of the rope, belaying me (also known as *making sure that if I fall, I don't die*)
 
@@ -20,5 +21,5 @@ She had a point though. In my profound excitement for security and sophisticatio
 
 As soon as we got back home we decided to embark on the important journey:
 
-### How to talk to your spouse about your bitcoin
+=== How to talk to your spouse about your bitcoin
 

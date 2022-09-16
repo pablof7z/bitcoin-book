@@ -1,0 +1,18 @@
+== The zero-to-one invention of Bitcoin
+If you ask people what _is_ Bitcoin's invention is, you'll get a wide array of responses, depending on where they are in their journey of understanding Bitcoin.
+
+A person early in their journey might say it's *_the blockchain_*.
+
+Someone a bit further along might venture it's *_proof of work_*.
+
+Perhaps a person with a very solid understanding will try their luck with *_it's the difficulty adjustment_*.
+
+A more metaphysical answer might come in the form of someone answering it's *_decentralization_*, whatever they might mean by that.
+
+I propose these concepts are just tools. Means to and end.
+
+But what's _the end_? What is it that bitcoin invents that didn't exist before?
+
+My answer?
+
+You might be able to guess it from the next section.

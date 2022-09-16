@@ -1,4 +1,4 @@
-# Chainalysis
+## Chainalysis
 Because, by it's very nature, all bitcoin transactions are completely public and transparent,
 multiple companies have sprung out creating what's called deterministic links of ownership.
 This is a fancy way of saying "this coin probably belongs to such-and-such entity".
@@ -8,7 +8,7 @@ and, largely, this is the name the entire industry of de-anonymizing bitcoin tra
 
 Even though the chain analysis industry is flourishing, there's a whole lot of fluff and make-believe in the results these companies present. As with most things in the industry, it comfortably fits somewhere between an exageration and an outright scam.
 
-## How it works
+### How it works
 Chainalysis relies on heuristics, extrapollations, and largely educated guesses, to infer who owns
 what. Note here that the *who* here refers to an *entity*. Entity here just abstracts the fact that
 we don't know if it's a person or a company.
@@ -16,7 +16,7 @@ we don't know if it's a person or a company.
 From each single transaction, chainalysis companies attempt to build a *map* of entities and their assets.
 Again, entities here are not known by name.
 
-### KYC
+#### KYC
 The magic of Chainalysis companies comes from their very customers: governments and companies (mostly exchanges).
 Who can, with certainty, link an entity/address to a person with a perfectly knowable identity.
 
