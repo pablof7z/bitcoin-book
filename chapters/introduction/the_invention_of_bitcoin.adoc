@@ -16,3 +16,5 @@ But what's _the end_? What is it that bitcoin invents that didn't exist before?
 My answer?
 
 You might be able to guess it from the next section.
+
+Hint: non-hierarchical money
