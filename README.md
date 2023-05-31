@@ -15,6 +15,13 @@ My thesis is that once people who have this understanding, preparing them to use
 * increase their confidence in holding bitcoin
 * prepare them to interacting with the freedom economy
 
+## Starting point
+I began writing the book in markdown and quickly realized that simply wasn't going to work; I pretty much ported the entire content to use AsciiDoc.
+
+[main.adoc](https://github.com/pablof7z/bitcoin-book/blob/master/main.adoc) is the first file that links to the rest of the book.
+
+There are a few lingering markdown files which should be deleted once their content has been imported or the file is no longer relevant.
+
 ## Related talks
 These are a couple of talks I gave that are extremely linked to the topics of this book
 
